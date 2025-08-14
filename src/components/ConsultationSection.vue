@@ -2,8 +2,8 @@
   <section class="py-12 bg-gray-50">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
       <div>
-        <h3 class="text-2xl font-bold">FREE Expert Consultation</h3>
-        <p class="mt-2 text-gray-600">Speak to our experts and get personalized guidance today</p>
+        <h3 class="text-2xl font-bold">Need assistance in geting started?</h3>
+        <p class="mt-2 text-gray-600">Schedule a eeting with out advisors</p>
         <img class="mt-6 rounded-xl border border-gray-200" src="https://images.unsplash.com/illustrations/consulting.svg?auto=format" onerror="this.src='https://picsum.photos/seed/consult/800/500'" alt="Illustration" />
       </div>
       <div class="rounded-xl border border-gray-200 bg-white p-6 shadow-sm">
